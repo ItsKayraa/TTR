@@ -1,0 +1,8 @@
+[Mid] [Color BLUE] TTR | Introduction to Terminal Text Render
+[Whitespace 5l]
+[Color GREEN] 1) What is TTR?
+[Whitespace 1l]
+[Color BLUE] TTR is a terminal text software for terminal based documents. It's easy to use.
+[Whitespace 4l]
+[End] [Color GREEN] Fun fact! This document was written on TTR.
+[w/ End+25] Hello, World!
